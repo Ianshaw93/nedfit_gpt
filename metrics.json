@@ -34,5 +34,41 @@
         "prompt": "is there an intro session to double check it is for me?",
         "response": "Absolutely, you can take advantage of a free half-hour coaching session to see if the program is right for you. Additionally, we offer a 5-day coaching plan as a lead magnet. This will give you a taste of the personalized approach and help you decide if you'd like to commit to the full program.\n\nIf you're interested in the intro session and the 5-day plan, let me know, and I can arrange that for you. It's the perfect way to double-check that the program fits your needs before signing up!",
         "error": false
+    },
+    {
+        "thread_id": "thread_9NPD4seRx0CkTioi2j5b9j9K",
+        "run_id": "run_amRa4SsfQ1t1LWkEhq7CKcqs",
+        "starting_date": 1703359293.9837043,
+        "time_taken": -8.93805742263794,
+        "prompt": "hey what are the programes?",
+        "response": "Hey there! Our programs are specifically designed for busy entrepreneurs and stay-at-home moms, offering personalized online fitness coaching that fits into your hectic schedule. You get tailored plans, regular progress tracking, and a flexible online platform so you can workout from anywhere. Would you like to know more about how these programs can help you achieve fitness? \ud83c\udfcb\u200d\u2640\ufe0f\ud83d\udcbc\ud83c\udfe1",
+        "error": false
+    },
+    {
+        "thread_id": "thread_9NPD4seRx0CkTioi2j5b9j9K",
+        "run_id": "run_L3R1S4RW7R4HtxkWp0O3eQiL",
+        "starting_date": 1703359488.2255275,
+        "time_taken": -6.3017027378082275,
+        "prompt": "yes please",
+        "response": "I'm glad to see you're ready to move forward! Before we proceed, I just need to confirm - have you trained with Dani\u00ebl before or is this your first time exploring his fitness programs? This will determine the best way for us to get you started on your fitness journey. \ud83d\ude0a\ud83d\udc5f",
+        "error": false
+    },
+    {
+        "thread_id": "thread_9NPD4seRx0CkTioi2j5b9j9K",
+        "run_id": "run_c7VdOrVAiBi37mWbwoQZzA00",
+        "starting_date": 1703359537.460893,
+        "time_taken": -7.66404128074646,
+        "prompt": "I have not trained with Dan before",
+        "response": "Since it's your first time, I have great news for you. You can take advantage of a free half-hour coaching session with Dani\u00ebl plus a 5-day coaching plan. It\u2019s a perfect way to jump-start your fitness journey and see how the program can fit into your lifestyle.\n\nAre you ready to schedule your free session and get your customized 5-day plan? If so, I can set it up right away! Let's get you on the path to reaching your fitness goals. \ud83c\udf1f\ud83d\uddd3\ufe0f",
+        "error": false
+    },
+    {
+        "thread_id": "thread_9NPD4seRx0CkTioi2j5b9j9K",
+        "run_id": "run_i3iH9spiDJZPCCOZriCgQVN2",
+        "starting_date": 1703359641.1915157,
+        "time_taken": -5.267116069793701,
+        "prompt": "great let's do that",
+        "response": "Fantastic choice! To schedule your free half-hour coaching session and get your 5-day coaching plan, I'll need your full name and phone number, including the country code. Once I have your details, we'll get everything set up for you.\n\nCould you please provide me with this information so we can get started? \ud83d\udcc5\ud83d\udcaa",
+        "error": false
     }
 ]
