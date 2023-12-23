@@ -6,7 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from openai import OpenAI
 import functions
-
+from record_transcript import add_metrics_to_db, add_transcript_to_db
 # from packaging import version
 from dotenv import load_dotenv
 
@@ -34,6 +34,8 @@ app.add_middleware(
 )
 client = OpenAI(api_key=OPENAI_API_KEY)
 
+last_chat_time = None
+
 # Load assistant ID from file or create new one
 assistant_id = functions.create_assistant(client)
 print("Assistant created with ID:", assistant_id)
@@ -60,16 +62,18 @@ async def start_conversation():
 
 @app.post("/chat")
 async def chat(chat_request: ChatRequest):
+    global last_chat_time
     thread_id = chat_request.thread_id
     user_input = chat_request.message
     if not thread_id:
         print("Error: Missing thread_id in /chat")
         raise HTTPException(status_code=400, detail="Missing thread_id")
     print("Received message for thread ID:", thread_id, "Message:", user_input)
-
+    last_chat_time = time.time()
     client.beta.threads.messages.create(thread_id=thread_id, role="user", content=user_input)
     run = client.beta.threads.runs.create(thread_id=thread_id, assistant_id=assistant_id)
     print("Run started with ID:", run.id)
+
     return {"run_id": run.id}
 
 @app.post("/check")
@@ -88,11 +92,19 @@ async def check_run_status(check_request: CheckRequest):
         if run_status.status == 'completed':
             messages = client.beta.threads.messages.list(thread_id=thread_id)
             message_content = messages.data[0].content[0].text
+            prompt_content = messages.data[1].content[0].text
             # Remove annotations
+            print("messages: ", messages)
+            print("prompt_content: ", message_content)
             annotations = message_content.annotations
             for annotation in annotations:
                 message_content.value = message_content.value.replace(annotation.text, '')
+            prompt_annotations = prompt_content.annotations
+            for annotation in prompt_annotations:
+                prompt_content.value = prompt_content.value.replace(annotation.text, '')
             print("Run completed, returning response")
+            # TODO: add response to database
+            add_metrics_to_db(thread_id, run_id, starting_date=last_chat_time, time_taken=last_chat_time-time.time(), prompt=prompt_content.value, response=message_content.value, error=False)
             return {"response": message_content.value, "status": "completed"}
 
         if run_status.status == 'requires_action':

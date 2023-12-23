@@ -1,0 +1,38 @@
+[
+    {
+        "thread_id": "msg_9N4Hs9R0Rtdgp7l0t3tttbzH",
+        "run_id": "run_mB1IV808qutmvt9y3ooSsr8h",
+        "starting_date": 1703334559,
+        "time_taken": 1703334650,
+        "prompt": "do you serve the US?",
+        "response": "Assistant's message",
+        "error": false
+    },
+    {
+        "thread_id": "thread_pYwe5OJRu9SVGefQvZ3jnZVP",
+        "run_id": "run_7CbLdEcReNPAjQZWOlMa5rRl",
+        "starting_date": 1703342572.7462196,
+        "time_taken": 1703342579.7018266,
+        "prompt": "great what other perks are included?",
+        "response": "Besides personalized coaching, key benefits of the fitness programs include:\n\n- Tailored fitness plans that suit the individual needs and schedules of busy entrepreneurs and home moms\n- Regular progress tracking and adjustments for optimal results\n- A focus on sustainable and balanced lifestyle changes\n\nThe programs are designed to be flexible and accessible online, so they can seamlessly integrate into your busy lifestyle while providing ongoing support and guidance\u301022\u2020source\u3011. If you're looking for a comprehensive fitness solution with these benefits, this program could be a perfect match for you. Let me know if you have any other questions or if you're ready to sign up!",
+        "error": false
+    },
+    {
+        "thread_id": "thread_pYwe5OJRu9SVGefQvZ3jnZVP",
+        "run_id": "run_IoF5SG5dR6CRgIcKY5CRM7qN",
+        "starting_date": null,
+        "time_taken": 1703343268.676594,
+        "prompt": "let's sign up",
+        "response": "Fantastic! To get you started with signing up for the fitness program, please follow this link to complete your payment via Stripe: 'https://buy.stripe.com/dR62at4fj73mboAeUU'\n\nOnce your payment is processed, you'll be all set to begin your fitness journey with personalized coaching and all the perks included in the program. Welcome aboard, and I'm excited for you to start seeing the results! If you need any help during the sign-up process, just let me know.",
+        "error": false
+    },
+    {
+        "thread_id": "thread_pYwe5OJRu9SVGefQvZ3jnZVP",
+        "run_id": "run_axTJPQd1GMPFnwxZlgOi8nAe",
+        "starting_date": 1703343688.5652997,
+        "time_taken": 1703343696.5772958,
+        "prompt": "is there an intro session to double check it is for me?",
+        "response": "Absolutely, you can take advantage of a free half-hour coaching session to see if the program is right for you. Additionally, we offer a 5-day coaching plan as a lead magnet. This will give you a taste of the personalized approach and help you decide if you'd like to commit to the full program.\n\nIf you're interested in the intro session and the 5-day plan, let me know, and I can arrange that for you. It's the perfect way to double-check that the program fits your needs before signing up!",
+        "error": false
+    }
+]
