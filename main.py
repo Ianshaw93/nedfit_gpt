@@ -6,6 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from openai import OpenAI
 import functions
+from functions import ping_telegram
 from record_transcript import add_metrics_to_db, add_transcript_to_db
 # from packaging import version
 from dotenv import load_dotenv
@@ -84,10 +85,22 @@ async def check_run_status(check_request: CheckRequest):
         print("Error: Missing thread_id or run_id in /check")
         raise HTTPException(status_code=400, detail="Missing thread_id or run_id")
 
+    # messages = client.beta.threads.messages.list(thread_id=thread_id)
+    # ping_telegram("failed", messages)
+    # return {"response": "error"}
     start_time = time.time()
     while time.time() - start_time < 9:
         run_status = client.beta.threads.runs.retrieve(thread_id=thread_id, run_id=run_id)
         print("Checking run status:", run_status.status)
+
+        if run_status.status == 'failed':
+            # action telegram message
+            # TODO: Handle failed runs - if wrong format of request may start death loop
+            # likely needs to send to human and ping them
+            messages = client.beta.threads.messages.list(thread_id=thread_id)
+            ping_telegram(run_status.status, messages)
+            return {"response": "error"}
+
 
         if run_status.status == 'completed':
             messages = client.beta.threads.messages.list(thread_id=thread_id)
@@ -114,6 +127,7 @@ async def check_run_status(check_request: CheckRequest):
                 if tool_call.function.name == "create_lead":
                     arguments = json.loads(tool_call.function.arguments)
                     output = functions.create_lead(arguments["name"], arguments["phone"])
+                    ping_telegram("client added to follow up", f'Name: {arguments["name"]}, Number: {arguments["phone"]}')
                     client.beta.threads.runs.submit_tool_outputs(thread_id=thread_id, run_id=run_id, tool_outputs=[{"tool_call_id": tool_call.id, "output": json.dumps(output)}])
         time.sleep(1)
 

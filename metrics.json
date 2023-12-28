@@ -70,5 +70,446 @@
         "prompt": "great let's do that",
         "response": "Fantastic choice! To schedule your free half-hour coaching session and get your 5-day coaching plan, I'll need your full name and phone number, including the country code. Once I have your details, we'll get everything set up for you.\n\nCould you please provide me with this information so we can get started? \ud83d\udcc5\ud83d\udcaa",
         "error": false
+    },
+    {
+        "thread_id": "thread_lMpB2HGdCLQmOvLEhnSA1gw1",
+        "run_id": "run_xkQZxxHFfIbEg7aah2P0S7Ab",
+        "starting_date": 1703630280.764411,
+        "time_taken": -7.457226753234863,
+        "prompt": "what are the products?",
+        "response": "My apologies for the confusion earlier. Daniel Stegehuis offers a comprehensive online fitness program specifically designed to accommodate the needs of busy entrepreneurs and stay-at-home moms. The program includes:\n\n- Customized workout plans that fit into your busy schedule.\n- Nutritional guidance to help you make healthier food choices.\n- Regular progress assessments to keep you on track.\n- Personal coaching sessions to provide motivation and accountability.\n\nEach aspect of the program is personalized for your specific goals and lifestyle. If you're interested in learning more or ready to jump on board, just let me know!",
+        "error": false
+    },
+    {
+        "thread_id": "thread_lMpB2HGdCLQmOvLEhnSA1gw1",
+        "run_id": "run_YLCa6uSDCW0uxefKNeGLXz36",
+        "starting_date": 1703630446.406074,
+        "time_taken": -8.296147346496582,
+        "prompt": "when can I join?\n",
+        "response": "You can join the program right away! If you're a new client, you can start by scheduling your free half-hour coaching session with Daniel Stegehuis and receive your 5-day coaching plan. This will give you an initial feel for the program and what you can achieve with it.\n\nIf you're ready to jump right into the full program, I can provide you with the payment link so you can get started as soon as you've completed the registration.\n\nWould you like to book the free session first, or are you all set to join the program now? Let me know your choice and I'll assist you accordingly!",
+        "error": false
+    },
+    {
+        "thread_id": "thread_4Pq0ZFbtAu8yMsyzQgqKMVCD",
+        "run_id": "run_vrvhMapUyhrvlOaW47nk6SrC",
+        "starting_date": 1703686298.4640489,
+        "time_taken": -4.849892854690552,
+        "prompt": "testing\n",
+        "response": "How can I assist you today? If you have any questions about Dani\u00ebl Stegehuis's online fitness programs for busy entrepreneurs and stay-at-home moms, I'm here to help you!",
+        "error": false
+    },
+    {
+        "thread_id": "thread_4Pq0ZFbtAu8yMsyzQgqKMVCD",
+        "run_id": "run_KuQukUYIgqRqQvKR9D6n0Kyy",
+        "starting_date": 1703686331.8601289,
+        "time_taken": -9.54626178741455,
+        "prompt": "great yeh any discounts?\n\n",
+        "response": "There aren't specific discounts mentioned, but if you haven't worked with Dani\u00ebl before, you're eligible for a free half-hour coaching session and a 5-day coaching plan. This is a great way to experience the program's effectiveness and compatibility with your lifestyle before you decide to enroll. \n\nWould you like to book the free session or do you want more details about the programs?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_4Pq0ZFbtAu8yMsyzQgqKMVCD",
+        "run_id": "run_I9MyjH834XIHm9dAOQdjI4Yb",
+        "starting_date": 1703686720.2375112,
+        "time_taken": -10.441659212112427,
+        "prompt": "more details\n\n",
+        "response": "It seems that you're looking for more in-depth information about the program that might not be covered in the general details. Dani\u00ebl Stegehuis's team can provide you with all the specifics you need to help you make an informed decision.\n\nFor this, may I have your full name and phone number including the country code? This way, we can set up a call where all your questions and concerns can be answered thoroughly.",
+        "error": false
+    },
+    {
+        "thread_id": "thread_4Pq0ZFbtAu8yMsyzQgqKMVCD",
+        "run_id": "run_KudYe0B65ZoPNLjSfWuisLAq",
+        "starting_date": 1703686813.262016,
+        "time_taken": -8.893547773361206,
+        "prompt": "can I not speak to a human but have futher details?\n\n",
+        "response": "Absolutely, I can understand the need for more information. However, the most detailed aspects of the program are tailored to each individual after personal consultation with Dani\u00ebl Stegehuis. The fitness plan, specific exercises, scheduling, and nutritional advice are customized based on personal goals and lifestyle.\n\nTo get the exact details that match your needs, the best course of action would be a conversation with Dani\u00ebl or a member of his team. If you aren't ready for a call, I can take down your questions and ensure they get the answers you're looking for. Could you please share the specific details or aspects of the program you're interested in knowing more about?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -13.136043310165405,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -14.569394826889038,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -16.010496139526367,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -17.538936853408813,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -19.178685903549194,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -20.615384578704834,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -22.251283884048462,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -23.683926343917847,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -25.12072229385376,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -26.63240146636963,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -28.393451690673828,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -29.621312379837036,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -31.363515615463257,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -32.90230965614319,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -34.23478841781616,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -35.718167304992676,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -37.30197763442993,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -38.743309020996094,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -40.169864892959595,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -41.802377700805664,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -43.24321246147156,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -44.77532696723938,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -46.20636248588562,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -47.7481107711792,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -49.38754200935364,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -50.722074031829834,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -52.24096369743347,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -53.89220714569092,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -55.325056076049805,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -56.7140417098999,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -58.29134511947632,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -59.829408407211304,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -61.36337065696716,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -62.79363703727722,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -64.43248963356018,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_q9frwWOIsetDO46cNsjyCfpD",
+        "run_id": "run_zpFbGW0uuC1250MsNmGSudaD",
+        "starting_date": 1703750151.4818988,
+        "time_taken": -66.38019871711731,
+        "prompt": "tell me about your products",
+        "response": "Dani\u00ebl Stegehuis provides personalized online fitness programs particularly for busy entrepreneurs and stay-at-home moms. These programs are designed to be effective and efficient, fitting into hectic schedules. Clients benefit from customized fitness plans, online accessibility allowing workouts from any location, and flexible scheduling. There\u2019s also a free half-hour coaching session available for new clients to trial the program. The enrollment process for interested clients involves qualifying questions and a discovery call with Dani\u00ebl, while returning clients or hot leads can directly enroll via a Stripe payment link. Regular interaction and progress tracking with Dani\u00ebl ensure continuous development and satisfaction.\n\nReady to start or have more questions about how this fits into your busy schedule?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_KCVwKdNvmuSyz1ezRrnYlAYV",
+        "run_id": "run_g00S6nSsnQ9ojwkrG49kdeuQ",
+        "starting_date": 1703752063.7877297,
+        "time_taken": -10.268065214157104,
+        "prompt": "products?",
+        "response": "Dani\u00ebl Stegehuis's fitness programs are specially crafted for busy entrepreneurs and stay-at-home moms. The key offerings include:\n\n- Personalized coaching tailored to individual needs and schedules.\n- Regular progress tracking and plan adjustments for optimal results.\n- Online accessibility for clients to work out from any location.\n- Flexible scheduling to accommodate busy lifestyles.\n- Sustainable and balanced lifestyle changes.\n\nThe programs are designed to be efficient and effective, easily fitting into hectic schedules to make fitness achievable for those with limited time. If you have specific needs, let me know and I can help further!",
+        "error": false
+    },
+    {
+        "thread_id": "thread_aY3p99HiJU4tFcxVP3xy1yu5",
+        "run_id": "run_Hhk3XcpZvYvDi7OG1PijtIqy",
+        "starting_date": 1703774108.9656277,
+        "time_taken": -7.399054288864136,
+        "prompt": "test 3",
+        "response": "I'm here to help you with any questions you have about our fitness programs. Whether it's details about the program itself or how to get started, just let me know how I can assist you!",
+        "error": false
+    },
+    {
+        "thread_id": "thread_aY3p99HiJU4tFcxVP3xy1yu5",
+        "run_id": "run_rHFKTEp9CosfsCAeJF4e4Zck",
+        "starting_date": 1703774132.8756478,
+        "time_taken": -14.468159437179565,
+        "prompt": "great what about the products?",
+        "response": "Our fitness programs are tailored to suit the needs of busy entrepreneurs and stay-at-home moms. We provide personalized coaching and online accessibility for a seamless experience. The programs are designed to fit into hectic schedules, ensuring efficient and effective workouts that you can do from anywhere. If you're looking to enhance your fitness journey with structured support, let me know how I can help you get started!",
+        "error": false
+    },
+    {
+        "thread_id": "thread_aY3p99HiJU4tFcxVP3xy1yu5",
+        "run_id": "run_P1maTdCLRAGhXBX57a03U3v8",
+        "starting_date": 1703774160.6889544,
+        "time_taken": -6.523033857345581,
+        "prompt": "can I talk to a human?",
+        "response": "Certainly! To connect you with one of our team members for further assistance, I'll need your full name and phone number with the country code. Could you please provide me with that information? Rest assured, they'll be able to address all your questions about the program.",
+        "error": false
+    },
+    {
+        "thread_id": "thread_yuSuPnb6sC1u8RNrvEkLEzbL",
+        "run_id": "run_Hu9i28oI6exKenibmrEUuhTe",
+        "starting_date": 1703774406.3142142,
+        "time_taken": -8.02548623085022,
+        "prompt": "trial",
+        "response": "It seems you're interested in learning more about the online fitness programs. If you're a busy entrepreneur or a stay-at-home mom, these programs are designed to fit into your hectic schedule. Have you worked with Dani\u00ebl Stegehuis before or would this be your first experience with his fitness programs?",
+        "error": false
+    },
+    {
+        "thread_id": "thread_yuSuPnb6sC1u8RNrvEkLEzbL",
+        "run_id": "run_hX98PV9VvRpHZdLiR08Ct8LK",
+        "starting_date": 1703774430.8274405,
+        "time_taken": -8.938602924346924,
+        "prompt": "can I speak to a human?",
+        "response": "Of course! I'd be happy to arrange that for you. To ensure that our team can assist you effectively, could you please provide your full name and phone number, including the country code? Meanwhile, if you have any immediate questions about the programs, feel free to ask, and I'll do my best to assist you right now.",
+        "error": false
+    },
+    {
+        "thread_id": "thread_yuSuPnb6sC1u8RNrvEkLEzbL",
+        "run_id": "run_ZNohXHOUcbbYmi1GV307E50c",
+        "starting_date": 1703774465.2836056,
+        "time_taken": -12.07585096359253,
+        "prompt": "Dav-o +447427780644",
+        "response": "Thanks for providing your details, Dav-o. Our team will reach out to you soon to address any questions you have and provide you with personalized assistance. If there's anything specific you'd like to know about the programs in the meantime, just let me know!",
+        "error": false
     }
 ]
